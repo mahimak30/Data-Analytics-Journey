@@ -1,0 +1,111 @@
+I Started Revising Excel Today. 05/02/2026
+
+---------
+Day 1:  05/02/2026
+---------
+
+What is excel?
+Excel is a SpreadSheet tool used to Store, Organize, Calculate, and Analyze Data.
+(A Smart Digital Notebook For Numbers and Information)
+
+Uses ( For Companies or Businesses)
+track Sales, Manage Employees, Analyze Business Performance, Clean Data, Make Reports
+
+whole File is a WorkBook
+Work Book has Multiple Work Sheets
+horizontal Lines Rows (1,2,3..) 
+Vertical Lines Colomns (A,B,C,..)
+Each box where Rows and Colmns meet is Cell
+Group of cells is range
+
+Data Entry - Type Information Into Cells
+
+Formatting: Data Presentation - Text Font / Color / Sixe/ Bold
+
+Basic Formulas - BAsic Calculations
+Sum - adds Numbers in selected range of cells
+Average - Finds Average in selected range of cells
+Min  - Finds Lowest Number in selected range of cells
+MAx - Finds highest in selected range of cells
+
+| Name  | Marks | City      |
+| ----- | ----- | --------- |
+| Asha  | 78    | Delhi     |
+| Ravi  | 45    | Mumbai    |
+| Neha  | 90    | Hyderabad |
+| Arjun | 66    | Chennai   |
+| Pooja | 52    | Delhi     |
+
+IF Funtion
+
+Decision Making 
+
+add new column for Result - PAss or Fail as per marks Greater than 50
+
+in new Colomn Result
+=if(B2>50, "PASS" , "FAIL")
+Drag Down 
+
+Name	Marks	City    	Result
+Asha	78	Delhi	      PASS
+Ravi	45	Mumbai    	FAIL
+Neha	90	Hyderabad	  PASS
+Arjun	66	Chennai	    PASS
+Pooja	52	Delhi     	PASS
+
+---------
+DAY 2 06/02/2026
+---------
+
+| Order ID | Product | Category   | Price | Quantity | Region | Date       |
+| -------- | ------- | ---------- | ----- | -------- | ------ | ---------- |
+| 1001     | Pen     | Stationery | 10    | 5        | West   | 01-01-2026 |
+| 1002     | Book    | Stationery | 50    | 2        | South  | 03-01-2026 |
+| 1003     | Bottle  | Utility    | 200   | 1        | North  | 05-01-2026 |
+| 1004     | Pen     | Stationery | 10    | 10       | West   | 07-01-2026 |
+| 1005     | Bag     | Utility    | 500   | 1        | East   | 10-01-2026 |
+
+Calculating Total Sales 
+
+= Price X Quantity .... 
+create a new Colomn and Name it Total Sales
+and Drag above Formula
+
+Order ID	   Product   	Category  Price	 Quantity	Region	Date	     Total Sales
+1001	        Pen      	Stationery	10	   5	      West	01-01-2026	50
+1002         	Book	    Stationery	50	   2	      South	03-01-2026	100
+1003        	Bottle    Utility	    200	   1	      North	05-01-2026	200
+1004	        Pen	      Stationery  10	   10	       West	07-01-2026	100
+1005         	Bag	      Utility	    500	   1	       East	10-01-2026	500
+
+Creating information from Existing Information
+Derived Data
+
+CountIF   =countif(Range, Condition)
+=countif(B2:B6,"Pen")
+uses: Inventory Tracking, Order Analysis, Quality Checks
+
+SUM IF - =SumIF(Range, Condition, Sum_Range)
+=SumIF(B2:B6,"Pen",H2:H6)
+Uses: Ex: Total Sales FRom west REgion. Helps business understand better and perform better
+
+Filtering and Sorting
+Select all Table and select Filter 
+Sales Accending / decending or view category only Utility 
+show certain data only
+arrange data 
+this is called Data Exploration
+
+I am Loving this and Learned everything so far.
+
+---------
+Day 3
+----------
+
+
+
+
+
+
+
+
