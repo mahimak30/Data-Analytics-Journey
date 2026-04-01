@@ -99,10 +99,33 @@ this is called Data Exploration
 I am Loving this and Learned everything so far.
 
 ---------
-Day 3
+Day 3  01/04/2026
 ----------
+Pivot Tables
+followed this Tutorial: https://youtu.be/lH7HfwUFnYA?si=cDs18zAbBJqKiGhN by Alex the Analyst
 
+Using Sales data ( downloaded from Kaggle )
 
+Creating Pivot Tables
+Insert -> Pivot Tables -> select all data -> enter
+
+Creating revenue Per Country table
+
+added Country in rows
+revenue, cost, Profit in Values
+
+the table I got is :
+Row Labels	Sum of Revenue	   Sum of Cost	Sum of Profit	
+Australia	     $2,13,02,059 	 $1,45,26,029  $67,76,030 	
+Canada    	     $79,35,738 	 $42,18,442 	 $37,17,296 	
+France	         $84,32,872 	 $55,52,590 	 $28,80,282 	
+Germany	         $89,78,596 	 $56,18,601 	 $33,59,995 	
+United Kingdom  1,06,46,196 	 $62,32,343 	 $44,13,853 	
+United States	 $2,79,75,547 	 $1,69,01,903  $1,10,73,644 	
+Grand Total  	 $8,52,71,008 	 $5,30,49,908	 $3,22,21,100 	
+				
+added States 
+right click on table->expand/collapse-> Collapse entire field
 
 
 
