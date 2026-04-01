@@ -18,6 +18,7 @@ I’m now actively looking for opportunities in:
 📊 Marketing Analyst
 📈 Growth Analyst
 🔍 Market Research Analyst
+Data Analyst
 
 I’m excited to contribute, learn, and grow in a positive work environment — while continuing my creative journey alongside.
 
