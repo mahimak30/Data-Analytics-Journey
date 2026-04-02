@@ -52,10 +52,13 @@ City
 Product Line
 
 🔹 Key Insights
-Sales declined in February but recovered in March. 
-Naypyitaw generated the highest profit. 
-Food & Beverages is the top-performing product category. 
-Sales are distributed relatively evenly across payment methods. 
+-Sales declined in February but recovered in March. 
+
+-Naypyitaw generated the highest profit. 
+
+-Food & Beverages is the top-performing product category. 
+
+-Sales are distributed relatively evenly across payment methods. 
 
 Dashboard Preview:
 
