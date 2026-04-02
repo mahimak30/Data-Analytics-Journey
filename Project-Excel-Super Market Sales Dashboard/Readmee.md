@@ -8,8 +8,8 @@ An interactive dashboard was created using Excel to support business decision-ma
 🔹 Objectives:
 
 Analyze monthly sales trends. 
-\nEvaluate profit distribution across cities. 
-/nIdentify top and bottom performing product lines. 
+Evaluate profit distribution across cities. 
+Identify top and bottom performing product lines. 
 Understand customer behavior through payment methods and customer types. 
 Build an interactive dashboard for easy data . 
 
@@ -21,13 +21,13 @@ Charts,
 Slicers, 
 Data Cleaning, 
 
-🔹 Dataset
-
+**🔹 Dataset
+**
 Supermarket Sales Dataset (Kaggle). 
 Includes data on sales, profit (gross income), product lines, cities, payment methods, and customer details. 
 
-🔹 Data Cleaning: 
-
+**🔹 Data Cleaning: 
+**
 Converted date column into proper format. 
 Created new columns: Month, Year. 
 Checked for missing values and inconsistencies. 
