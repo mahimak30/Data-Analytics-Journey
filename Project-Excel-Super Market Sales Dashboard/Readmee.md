@@ -8,8 +8,8 @@ An interactive dashboard was created using Excel to support business decision-ma
 🔹 Objectives:
 
 Analyze monthly sales trends. 
-Evaluate profit distribution across cities. 
-Identify top and bottom performing product lines. 
+\nEvaluate profit distribution across cities. 
+/nIdentify top and bottom performing product lines. 
 Understand customer behavior through payment methods and customer types. 
 Build an interactive dashboard for easy data . 
 
