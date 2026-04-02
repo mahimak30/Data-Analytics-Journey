@@ -6,56 +6,56 @@ This project analyzes supermarket sales data to uncover insights into sales tren
 An interactive dashboard was created using Excel to support business decision-making.
 
 🔹 Objectives
-Analyze monthly sales trends
-Evaluate profit distribution across cities
-Identify top and bottom performing product lines
-Understand customer behavior through payment methods and customer types
-Build an interactive dashboard for easy data exploration
+Analyze monthly sales trends. 
+Evaluate profit distribution across cities. 
+Identify top and bottom performing product lines. 
+Understand customer behavior through payment methods and customer types. 
+Build an interactive dashboard for easy data . 
 
 🔹 Tools Used
-Microsoft Excel
-Pivot Tables
-Charts
-Slicers
-Data Cleaning
+Microsoft Excel, 
+Pivot Tables, 
+Charts, 
+Slicers, 
+Data Cleaning, 
 
 🔹 Dataset
-Supermarket Sales Dataset (Kaggle)
-Includes data on sales, profit (gross income), product lines, cities, payment methods, and customer details
+Supermarket Sales Dataset (Kaggle). 
+Includes data on sales, profit (gross income), product lines, cities, payment methods, and customer details. 
 
-🔹 Data Cleaning
-Converted date column into proper format
-Created new columns: Month, Year
-Checked for missing values and inconsistencies
+🔹 Data Cleaning: 
+Converted date column into proper format. 
+Created new columns: Month, Year. 
+Checked for missing values and inconsistencies. 
 
-🔹 Key Analysis Performed
+🔹 Key Analysis Performed: 
 Monthly sales trend (grouped by month & year)
-Profit comparison by city
-Top 5 and bottom 5 product lines
-Sales distribution by payment method
-Sales by customer type
+Profit comparison by city. 
+Top 5 and bottom 5 product lines. 
+Sales distribution by payment method. 
+Sales by customer type. 
 
 🔹 Dashboard Features
 
 KPI Metrics:
-Total Sales
-Total Profit
-Average Rating
+Total Sales 
+Total Profit 
+Average Rating 
 
 Visualizations:
-Monthly Sales Trend
-Profit by City
-Top Product Lines
+Monthly Sales Trend 
+Profit by City 
+Top Product Lines 
+
 Interactive Filters:
 City
 Product Line
-Payment Method
 
 🔹 Key Insights
-Sales declined in February but recovered in March
-Naypyitaw generated the highest profit
-Food & Beverages is the top-performing product category
-Sales are distributed relatively evenly across payment methods
+Sales declined in February but recovered in March. 
+Naypyitaw generated the highest profit. 
+Food & Beverages is the top-performing product category. 
+Sales are distributed relatively evenly across payment methods. 
 
 Dashboard Preview:
 
