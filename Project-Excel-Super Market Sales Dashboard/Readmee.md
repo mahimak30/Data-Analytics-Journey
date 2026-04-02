@@ -21,13 +21,13 @@ Charts,
 Slicers, 
 Data Cleaning, 
 
-**🔹 Dataset
-**
+🔹 Dataset
+
 Supermarket Sales Dataset (Kaggle). 
 Includes data on sales, profit (gross income), product lines, cities, payment methods, and customer details. 
 
-**🔹 Data Cleaning: 
-**
+🔹 Data Cleaning: 
+
 Converted date column into proper format. 
 Created new columns: Month, Year. 
 Checked for missing values and inconsistencies. 
