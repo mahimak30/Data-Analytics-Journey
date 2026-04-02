@@ -1,11 +1,11 @@
 📊 Sales Performance Dashboard (Excel Project)
 
-🔹 Project Overview
+🔹 Project Overview:
 
 This project analyzes supermarket sales data to uncover insights into sales trends, profitability, and product performance.
 An interactive dashboard was created using Excel to support business decision-making.
 
-🔹 Objectives
+🔹 Objectives:
 Analyze monthly sales trends. 
 Evaluate profit distribution across cities. 
 Identify top and bottom performing product lines. 
